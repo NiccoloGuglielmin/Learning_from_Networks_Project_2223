@@ -5,4 +5,4 @@ This project has been developed by:
 - Savio Andrea
 - Zaccarin Angelo
 
-To download the brain networks we analyzed download them in the project folder from the following link: https://drive.google.com/drive/folders/1hY93Gj7jkQb7IGhNnqumjxqOZv1hVEsk?usp=sharing .
+To download the brain networks we analyzed download them in the project folder from the following link: https://drive.google.com/drive/folders/1zPdNVBV7rywWwuXsro8YIkwP7bRgR2O4?usp=sharing .
